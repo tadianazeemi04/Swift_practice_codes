@@ -1,0 +1,5 @@
+doing Intermidiate course
+
+make optional branch for all optional variable functions
+
+now making Array branch to deep dive in Arrays
