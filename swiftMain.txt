@@ -7,3 +7,9 @@ now making Array branch to deep dive in Arrays
 working complete on array branch
 
 now creating new branch for special functions
+
+complete adding files for special functions
+
+next going to code on Dictionaries
+
+making new branch named dictionaries
