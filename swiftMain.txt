@@ -13,3 +13,5 @@ complete adding files for special functions
 next going to code on Dictionaries
 
 making new branch named dictionaries
+
+merging Optional branch to main
